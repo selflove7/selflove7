@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @selflove7
-- 
+Halo,Mprtal I’m @SelfLove <3!
+
 
 <!---
 selflove7/selflove7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
