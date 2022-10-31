@@ -1,4 +1,4 @@
-Halo,Mprtal I’m @SelfLove <3!
+Halo,Mortal I’m @SelfLove <3!
 
 
 <!---
