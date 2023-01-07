@@ -1,4 +1,7 @@
-Halo Mortals, I’m @SelfLove <3!
+<marquee behavior="scroll" direction="left"> Halo Mortals, I’m @SelfLove <3! </marquee>
+
+
+
 
 
 <!---
