@@ -2,9 +2,7 @@
   
 <body>
 
-<h3 style="background-color:powderblue;">  Halo Mortals, I’m @SelfLove <3!
-                                                   </h3>
-
+<h3 style="background-color:powderblue;">  The greatest obstacle to discovering the truth is not ignorance but the illusion of knowledge.  </h3>
 </body>
 </html>
 
